@@ -9,18 +9,22 @@ We meet roughly every **4 weeks**. Occasionally we run shared sessions with othe
 If you want to present, co-host a session, or invite an external speaker, please add yourself to the schedule via a pull request or open an issue in the repo.
 
 ## Contact persons
-- Jesse Gonzalez
-- Peter Kok
+- Ewan Cahen
+- Malte Lüken
 
 
-## Current schedule (2026) - To be decided
+## Current schedule (2026)
 
 | Date (YYYY-MM-DD) | Type (A, V, A&V) | Speaker | Topic | Notes/Links |
 |---|---|---|---|---|
-| YYYY-MM-DD | A&V | TBA | TBA | TBA |
-| YYYY-MM-DD | A | TBA | TBA | TBA |
-| YYYY-MM-DD | V | TBA | TBA | TBA |
-| YYYY-MM-DD | A&V | TBA | TBA | TBA |
+| 2026-10-29 | V | Djura Smits | Scientific visualization with Blender | TBA |
+| 2026-11-26 | TBD | TBA | TBA | TBA |
+
+## New schedule (2027) - TBD
+
+| Date (YYYY-MM-DD) | Type (A, V, A&V) | Speaker | Topic | Notes/Links |
+|---|---|---|---|---|
+| YYYY-MM-DD | TBD | TBA | TBA | TBA |
 
 ---
 
